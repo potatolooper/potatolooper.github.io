@@ -1,0 +1,18 @@
+body{
+	height:2000px;
+	background-color:#FFD111;
+	background-image: linear-gradient(to bottom right,#FFD111,#B98019);
+}
+h1{
+	line-height: 2;
+	color: black;
+	text-align: center; 
+}
+h2{
+    line-height: 2;
+	text-align: center;
+	
+}
+img{
+	padding-left: 200px ;
+}
