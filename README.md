@@ -8,4 +8,4 @@ La clase mas chunga,me duele la barriga
 1. Se hizo el `CSS` de [**estilosos.css**](https://github.com/potatolooper/potatolooper.github.io/blob/master/estilosos.css)
 
 Resultado:
-<addr> [potatolooper.gitgub.io](https://potatolooper.github.io)
+<addr> [potatolooper.gitgub.io](https://potatolooper.github.io\https://potatolooper.github.io/diego.html)
