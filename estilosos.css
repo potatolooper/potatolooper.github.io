@@ -14,6 +14,8 @@ h2{
 	
 }
 img{
-
-   float:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
