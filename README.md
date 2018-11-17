@@ -1,16 +1,7 @@
 # bootstrap
-Aprendendo git, atom e con plantillas do bootstrap
 
-* descargado
+1. Se hizo el `CSS` de [**estilosos.css**](https://github.com/potatolooper/potatolooper.github.io/blob/master/estilosos.css)
+ Resultado:
 
-* clonado con ssh
-
-Aprendendo de:
-https://www.w3schools.com/bootstrap4/default.asp
-
-https://getbootstrap.com/docs/4.0/getting-started/introduction/
-
-https://www.quackit.com/bootstrap/bootstrap_4/tutorial/
-
-
-Irei facendo un wiki pero vai ser mañana
+* [Portada](https://potatolooper.github.io)
+* [Las tarjetas](https://potatolooper.github.io/diego.html)
